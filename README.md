@@ -69,13 +69,3 @@ run the cells in order from the top.
 
 If everything goes wrong: **Kernel -> Restart Kernel and Clear All Outputs**,
 then start again from the first cell. Nothing is damaged by doing this.
-
-## For faculty
-
-Each folder holds three files:
-
-| File | For | Contains |
-|---|---|---|
-| `PNN.ipynb` | students | the practical itself |
-| `README.md` | students | the handout: aim, background, marking |
-| `FACULTY.md` | **you only** | timing plan, expected output, common mistakes, troubleshooting, and the answers |
